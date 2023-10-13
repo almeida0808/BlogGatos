@@ -444,13 +444,13 @@ margin-left:-9rem ;
 
 @media (min-width:1250px){
 header, footer{
-width:103.96% ;
+width:230vh ;
 
 
 }
 
 form input{
-    width: 150rem;
+    width: 130rem;
     font-size: 1.8rem;
 
 }
@@ -506,10 +506,12 @@ margin-top: -3rem;
 @media (min-width:2009px){
 
     footer, header{
-        width: 210vh;
+        width: 274vh;
     }
 
     form input{
         width: 130rem;
     }
+
+
 }
