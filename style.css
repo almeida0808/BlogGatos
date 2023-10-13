@@ -529,11 +529,9 @@ margin-left:-14rem ;
 
 @media (min-width:1250px){
 footer, header{
-width: 100%;
 }
 
 html{
-    width: 100%;
 }
 form input{
     width: 130rem;
