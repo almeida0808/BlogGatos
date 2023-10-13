@@ -503,15 +503,3 @@ margin-top: -3rem;
 }
 }
 
-@media (min-width:2009px){
-
-    footer, header{
-        width: 274vh;
-    }
-
-    form input{
-        width: 130rem;
-    }
-
-
-}
